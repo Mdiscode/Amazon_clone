@@ -416,7 +416,7 @@ footer .footer-middle .emty-div{
 /* ///navline-footer */
 footer .navfooter-line{
     width: 100%;
-    height:28vh;
+    height:21vh;
     background:#232F3E ;
     border-top: 1px solid gray;
     display: flex;
@@ -435,9 +435,9 @@ footer .navfooter-line .navline img{
 }
 footer .navfooter-line .navline .langnav-div a{
     color: white;
-    margin: 7px;
+    margin: 4px;
     text-decoration: none;
-    padding: 8px 23px;
+    padding: 4px 18px;
     border: 1px solid white;
 }
 
